@@ -1,4 +1,4 @@
-# Mathematics 2
+# Machine Learning Foundations
 
 ### The prescribed textbooks for this course are:
 
